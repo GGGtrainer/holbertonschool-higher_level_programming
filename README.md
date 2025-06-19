@@ -35,11 +35,11 @@ Each subfolder contains a specific project. Here are a few examples:
 
 | Project | Description |
 |--------|-------------|
-| `0x00-python-hello_world` | Introduction to Python, running scripts, and basic syntax |
-| `0x01-python-if_else_loops_functions` | Conditional statements, loops, and functions |
-| `0x03-python-data_structures` | Lists, tuples, and more |
-| `0x0A-python-inheritance` | Understanding and using inheritance |
-| `0x0F-python-object_relational_mapping` | Working with databases and SQL using Python |
+| `python-hello_world` | Introduction to Python, running scripts, and basic syntax |
+| `python-if_else_loops_functions` | Conditional statements, loops, and functions |
+| `python-data_structures` | Lists, tuples, and more |
+| `python-inheritance` | Understanding and using inheritance |
+| `python-object_relational_mapping` | Working with databases and SQL using Python |
 
 > Explore each folder for more details and example scripts.
 
