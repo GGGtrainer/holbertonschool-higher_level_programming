@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def printReversedListInt(myList=[]):
+def print_reversed_list_integer(myList=[]):
 
     if myList is None:
         return
