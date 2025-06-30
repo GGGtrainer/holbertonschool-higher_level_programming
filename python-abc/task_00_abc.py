@@ -15,7 +15,7 @@ class Dog(Animal):
     """Subclass representing a Dog"""
 
     def sound(self):
-        return "Bark!"
+        return "Bark"
 
 
 class Cat(Animal):
