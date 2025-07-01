@@ -40,8 +40,7 @@ Each subfolder contains a specific project. Here are a few examples:
 | `python-data_structures` | Lists, tuples, and more |
 | `python-inheritance` | Understanding and using inheritance |
 | `python-object_relational_mapping` | Working with databases and SQL using Python |
-
-> Explore each folder for more details and example scripts.
+| And More!! |
 
 ---
 
